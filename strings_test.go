@@ -7,7 +7,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/aokoli/goutils"
+	"github.com/Masterminds/goutils"
 	"github.com/stretchr/testify/assert"
 )
 

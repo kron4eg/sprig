@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	util "github.com/aokoli/goutils"
+	util "github.com/Masterminds/goutils"
 )
 
 func base64encode(v string) string {
