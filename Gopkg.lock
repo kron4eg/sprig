@@ -20,10 +20,10 @@
   version = "v1.1.0"
 
 [[projects]]
-  branch = "master"
   name = "github.com/huandu/xstrings"
   packages = ["."]
   revision = "2bf18b218c51864a87384c06996e40ff9dcff8e1"
+  version = "v1.0.0"
 
 [[projects]]
   name = "github.com/imdario/mergo"
@@ -61,6 +61,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "bd91da9db6c15b953a0a55d89a629c04b632f5a1e8e8c1eaaf884615f54ba5ef"
+  inputs-digest = "97846eb2581e8311fa5f22cac1df9d5bc55326f5bc15d7f8361865942b5d3d17"
   solver-name = "gps-cdcl"
   solver-version = 1
